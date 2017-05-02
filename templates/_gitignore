@@ -1,0 +1,7 @@
+.DS_Store
+.vagrant
+dist
+*.log
+node_modules
+/wordpress
+wordpress-latest.tar.gz
